@@ -3,6 +3,7 @@
 guilds=(
 	'starship 675754989'
 )
+
 	
 for g in $guilds ; do 
 	args=("${(@s/ /)g}")
