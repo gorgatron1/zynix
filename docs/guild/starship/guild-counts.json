@@ -1,1 +1,1 @@
-{"y":"count","dates":["05\/17\/2021"],"series":[{"name":"An Enterprising Starship","id":"starship","values":{"Squads":[1122],"players":[50],"Def":[571],"G12+":[6477],"7*":[12012],"G10+":[7642],"G13+":[4688],"Zetas":[6889],"Off":[526]}}]}
+{"y":"count","dates":["05\/17\/2021","05\/19\/2021"],"series":[{"name":"An Enterprising Starship","id":"starship","values":{"Squads":[1122,1117],"G10+":[7642,7596],"Def":[571,571],"players":[50,50],"G13+":[4688,4641],"7*":[12012,11995],"G12+":[6477,6440],"Zetas":[6889,6843],"Off":[526,525]}}]}
