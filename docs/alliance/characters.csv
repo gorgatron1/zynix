@@ -1,6 +1,6 @@
 Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "ARC Trooper",50,50,50,50,0,50
-"Aayla Secura",49,38,28,12,0,0
+"Aayla Secura",49,38,29,12,0,0
 "Admiral Ackbar",50,50,12,1,0,0
 "Admiral Piett",49,46,40,39,0,94
 "Ahsoka Tano",50,50,50,39,0,50
@@ -17,7 +17,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Baze Malbus",49,38,2,0,0,0
 "Biggs Darklighter",50,50,46,3,0,0
 "Bistan",50,30,10,4,0,0
-"Bo-Katan Kryze",48,30,8,8,0,12
+"Bo-Katan Kryze",48,31,8,8,0,12
 "Boba Fett",50,50,12,7,0,11
 "Bodhi Rook",46,0,0,0,0,0
 "Bossk",50,50,40,20,50,45
@@ -38,7 +38,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Chief Nebit",50,13,1,1,0,0
 "Chirrut Îmwe",50,40,3,1,0,0
 "Chopper",50,36,0,0,0,0
-"Clone Sergeant - Phase I",50,50,24,16,0,0
+"Clone Sergeant - Phase I",50,50,27,19,0,0
 "Clone Wars Chewbacca",50,7,0,0,0,0
 "Colonel Starck",49,48,39,13,0,40
 "Commander Luke Skywalker",50,50,49,37,49,96
@@ -50,15 +50,15 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Darth Nihilus",50,49,22,8,5,37
 "Darth Revan",50,49,49,34,49,98
 "Darth Sidious",50,43,33,32,0,32
-"Darth Sion",50,49,29,9,0,49
-"Darth Traya",50,50,35,16,49,50
+"Darth Sion",50,49,29,10,0,49
+"Darth Traya",50,50,35,17,49,50
 "Darth Vader",50,50,50,49,50,100
 "Dathcha",50,16,0,0,0,0
 "Death Trooper",50,47,19,4,0,4
 "Dengar",50,42,3,0,0,4
 "Director Krennic",50,37,32,1,3,0
 "Droideka",50,50,14,6,0,48
-"Echo",42,16,3,1,0,11
+"Echo",42,18,3,1,0,15
 "Eeth Koth",49,10,1,0,0,0
 "Embo",50,26,4,1,2,12
 "Emperor Palpatine",50,50,50,49,50,47
@@ -91,11 +91,11 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "HK-47",50,50,31,14,0,91
 "Han Solo",50,50,50,49,0,50
 "Hera Syndulla",50,27,1,0,0,3
-"Hermit Yoda",50,50,49,47,0,76
+"Hermit Yoda",50,50,49,47,0,77
 "Hoth Rebel Scout",50,30,9,2,0,0
 "Hoth Rebel Soldier",50,2,0,0,0,0
 "Hunter",45,9,3,2,9,0
-"IG-100 MagnaGuard",50,50,41,30,0,8
+"IG-100 MagnaGuard",50,50,41,32,0,8
 "IG-11",50,35,26,18,0,28
 "IG-86 Sentinel Droid",50,6,0,0,0,0
 "IG-88",50,49,3,0,0,2
@@ -120,7 +120,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Ki-Adi-Mundi",50,43,41,35,0,41
 "Kit Fisto",48,5,0,0,0,0
 "Kuiil",50,33,26,12,0,34
-"Kylo Ren",50,47,43,43,0,46
+"Kylo Ren",50,47,44,43,0,46
 "Kylo Ren (Unmasked)",50,49,47,45,48,49
 "L3-37",50,40,22,13,0,11
 "Lando Calrissian",50,50,48,46,0,0
@@ -150,7 +150,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Poggle the Lesser",50,50,8,2,0,0
 "Princess Leia",50,50,46,0,0,9
 "Qi'ra",50,38,1,0,0,6
-"Qui-Gon Jinn",50,45,15,0,15,0
+"Qui-Gon Jinn",50,46,17,0,16,0
 "R2-D2",50,50,48,47,0,98
 "Range Trooper",50,44,25,10,0,0
 "Rebel Officer Leia Organa",50,50,48,4,0,7
@@ -169,7 +169,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Shaak Ti",50,50,50,47,50,50
 "Shoretrooper",50,47,20,8,0,0
 "Sith Assassin",50,13,2,0,0,0
-"Sith Empire Trooper",50,47,17,8,0,0
+"Sith Empire Trooper",50,47,18,8,0,0
 "Sith Eternal Emperor",30,30,30,30,30,149
 "Sith Marauder",50,41,40,36,0,0
 "Sith Trooper",50,44,43,42,0,43
@@ -196,7 +196,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Veteran Smuggler Han Solo",50,47,45,2,0,18
 "Visas Marr",50,17,0,0,0,13
 "Wampa",50,50,49,4,0,63
-"Wat Tambor",50,50,48,44,0,50
+"Wat Tambor",50,50,48,45,0,50
 "Wedge Antilles",50,49,46,1,0,0
 "Wicket",50,47,0,0,0,18
 "Wrecker",43,6,3,1,0,10
