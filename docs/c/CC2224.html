@@ -397,14 +397,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-2', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 49 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_CC2224"><img src="https://swgoh.gg/game-asset/a/leaderskill_CC2224.png" style="width: 30px" /> Ghost Company Commander</td><td>+5% Critical Chance, +10% Defense, and Clone allies recover 5% of their Max Protection whenever they use a Basic ability</td><td>10</td><td>20%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 50 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="leaderskill_CC2224"><img src="https://swgoh.gg/game-asset/a/leaderskill_CC2224.png" style="width: 30px" /> Ghost Company Commander</td><td>+5% Critical Chance, +10% Defense, and Clone allies recover 5% of their Max Protection whenever they use a Basic ability</td><td>10</td><td>20%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 0, 0, 0, 0, 0, 1, 5, 0, 0, 6, 8, 0, 1, 0, 1, 1, 24, 0, 1, 0 ],
+    y: [ 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 8, 1, 1, 0, 1, 1, 26, 0, 1, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 2.0408163265306123, 2.0408163265306123, 2.0408163265306123, 2.0408163265306123, 2.0408163265306123, 2.0408163265306123, 4.081632653061225, 14.285714285714285, 14.285714285714285, 14.285714285714285, 26.53061224489796, 42.85714285714286, 42.85714285714286, 44.89795918367347, 44.89795918367347, 46.93877551020408, 48.97959183673469, 97.95918367346938, 97.95918367346938, 100.0, 100.0 ],
+    y: [ 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 12.0, 12.0, 12.0, 22.0, 38.0, 40.0, 42.0, 42.0, 44.0, 46.0, 98.0, 98.0, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -424,5 +424,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-06-19 03:55:44 +0000</font>
+<font size="-2">Generated 2021-06-21 17:17:05 +0000</font>
 <script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
